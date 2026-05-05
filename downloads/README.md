@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [archive_20260505_193112](./archive_20260505_193112)
+- [archive_20260505_194811](./archive_20260505_194811)
 - [v2rayN-linux-64](./v2rayN-linux-64)
 
 ---
