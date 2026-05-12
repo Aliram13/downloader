@@ -1,0 +1,9 @@
+/
+config.js
+css/all.css
+images/apple-touch-icon.png
+images/favicon.svg?v=1
+interface_config.js
+libs/app.bundle.min.js?v=139
+libs/lib-jitsi-meet.min.js?v=139
+static/rocket-avatar.js
